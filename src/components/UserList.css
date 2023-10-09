@@ -1,0 +1,13 @@
+img {
+    height: 16px;
+    width: 16px;
+}
+
+table {
+    border: 1px solid white;
+    margin: 5%;
+}
+
+th {
+    border-bottom: 1px solid white;
+}
